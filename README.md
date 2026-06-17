@@ -4,10 +4,10 @@ Unofficial Python integrations for Sunwave.
 
 ## Integrations
 
-- `sunwave_get_patient_form_data.py` - `get_patient_form_data` (853,757 live events).
-- `sunwave_get_group_header_with_time.py` - `get_group_header_with_time` (194,723 live events).
-- `sunwave_get_patient_admissions.py` - `get_patient_admissions` (6,662 live events).
-- `sunwave_write_patient_chart_field.py` - `write_patient_chart_field` (6,361 live events).
+- `sunwave_get_patient_form_data.py` - `get_patient_form_data`.
+- `sunwave_get_group_header_with_time.py` - `get_group_header_with_time`.
+- `sunwave_get_patient_admissions.py` - `get_patient_admissions`.
+- `sunwave_write_patient_chart_field.py` - `write_patient_chart_field`.
 
 ## Usage
 
@@ -25,8 +25,8 @@ pip install -r requirements.txt
 
 ## Info
 
-This unofficial API is built by [Integuru.ai](https://integuru.ai/).
+This unofficial API is built by [Integuru](https://integuru.com).
 
-For custom requests or hosted authentication, contact richard@taiki.online.
+For custom requests or hosted authentication, contact richard@integuru.com or [schedule time with us](https://calendly.com/d/cqb8-d9x-nbf/integuru).
 
 See the [complete list of APIs by Integuru](https://github.com/Integuru-AI/APIs-by-Integuru).
